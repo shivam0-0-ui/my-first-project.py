@@ -1,4 +1,5 @@
-# my-first-project.py
+# my-first-project.c
+
 #include <iostream>
 #include <string>
 #include <cctype>
